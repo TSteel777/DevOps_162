@@ -1,0 +1,1 @@
+"Testig new global config" 
